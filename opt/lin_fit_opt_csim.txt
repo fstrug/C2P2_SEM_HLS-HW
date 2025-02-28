@@ -1,0 +1,43 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../../linfit.cpp in debug mode
+   Generating csim.exe
+Entries: 1362
+100
+Event fit
+Slope: -0.50599 +/- 0.00722992
+Y intercept: 40.177 +/- 0.442176
+Chi_2/ndof: 1.42974
+
+94
+Event fit
+Slope: -3.31985 +/- 0.00880001
+Y intercept: 119.022 +/- 0.487236
+Chi_2/ndof: 21.4269
+
+242
+Event fit
+Slope: 1.11135 +/- 0.0103588
+Y intercept: 58.9936 +/- 0.632179
+Chi_2/ndof: 0.961636
+
+242
+Event fit
+Slope: -1.28919 +/- 0.00496797
+Y intercept: 1.06163 +/- 0.282697
+Chi_2/ndof: 0.994762
+
+242
+Event fit
+Slope: 10.9737 +/- 0.058255
+Y intercept: 14.3101 +/- 3.24237
+Chi_2/ndof: 0.948025
+
+442
+Event fit
+Slope: 7.02553 +/- 0.00671438
+Y intercept: 6.84391 +/- 0.375281
+Chi_2/ndof: 26.926
+
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************
